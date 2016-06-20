@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="CyanogenMod/android_device_sony_sirius" path="device/sony/sirius" remote="github" revision="cm-12.1" />
+  <project name="Keij0/android_device_sony_sirius" path="device/sony/sirius" remote="github" revision="cm-12.1" />
   <project name="xperiasailors/android_device_sony_shinano-common" path="device/sony/shinano-common" remote="github" revision="cm-12.1" />
   <project name="xperiasailors/android_kernel_sony_msm8974" path="kernel/sony/msm8974" remote="github" revision="cm-12.1" />
   <project name="xperiasailors/android_device_sony_msm8974-common" path="device/sony/msm8974-common" remote="github" revision="cm-12.1" />
