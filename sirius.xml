@@ -8,13 +8,12 @@
   <project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-12.1" />
   <project name="CyanogenMod/android_hardware_sony_thermanager" path="hardware/sony/thermanager" remote="github" revision="cm-12.1" />
   <project name="TheMuppets/proprietary_vendor_sony" path="vendor/sony" remote="github" revision="cm-12.1" />
-  <!-- <project path="rpm" name="xperiasailors/droid-hal-z3c" revision="master" remote="github" />
-  <project path="hybris/droid-hal-version-z3c" name="xperiasailors/droid-hal-version-z3c" remote="github" revision="master"/>
-
-  Temporary overrides -->
+  <!-- Temporary overrides -->
   <remove-project name="mer-hybris/hybris-boot" />
   <project path="hybris/hybris-boot" name="Keij0/hybris-boot" remote="github" revision="master"/>
   
-  <!--- WIP --->
+  <!-- WIP -->
   <project path="hybris/droid-configs" name="Keij0/droid-config-sirius" remote="github" revision="master"/>
+  <project path="rpm" name="Keij0/droid-hal-sirius" revision="master" remote="github" />
+  <project path="hybris/droid-hal-version-sirius" name="Keij0/droid-hal-version-sirius" remote="github" revision="master"/>
 </manifest>
