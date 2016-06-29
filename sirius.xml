@@ -16,5 +16,5 @@
   <project path="hybris/hybris-boot" name="xperiasailors/hybris-boot" remote="github" revision="master"/>
   
   <!--- WIP --->
-  <project path="hybris/droid-configs" name="xperiasailors/droid-config-sirius" remote="github" revision="master"/>
+  <project path="hybris/droid-configs" name="Keij0/droid-config-sirius" remote="github" revision="master"/>
 </manifest>
